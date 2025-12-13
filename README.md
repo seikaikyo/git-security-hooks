@@ -1,5 +1,7 @@
 # Git Security Hooks 🔐
 
+**[English](README.md)** | **[正體中文](README.zh-TW.md)** | **[日本語](README.ja.md)**
+
 Automatically scan for secrets (API keys, tokens, passwords) before every git commit.
 
 ## Features
