@@ -1,2 +1,5 @@
 .DS_Store
 *.log
+
+# Claude Code
+.claude/
